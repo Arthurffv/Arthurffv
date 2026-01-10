@@ -57,13 +57,15 @@ I also create content and share knowledge on **software development, SaaS**.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
+[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthurffv)](https://github.com/Arthurffv/github-readme-stats)
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthurffv&hide=contribs,prs)
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthurffv&show_icons=true&theme=radical)
 
 ## 📊 GitHub Stats
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Arthurffv&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurffv&layout=compact&theme=tokyonight" />
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthurffv)](https://github.com/Arthurffv/github-readme-stats)
 </p>
 
 ---
