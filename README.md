@@ -59,19 +59,10 @@ I also create content and share knowledge on **software development, SaaS**.
 ---
 
 
-## 📊 GitHub Stats
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Arthurffv&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Arthurffv&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Arthurffv&show_icons=true" />
-</picture>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Arthurffv&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Arthurffv&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurffv&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
